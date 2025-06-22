@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Farhan 👋
 
-<!--
-**devxmfk/devxmfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS in Artificial Intelligence | 💻 Aspiring Full Stack Developer  
+🌐 Founder @hoodix | 🧠 Learning Web Dev, AI & Business  
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack:
+- Languages: C++, JavaScript, Python
+- Web: HTML, CSS, React (in progress)
+- Tools: Git, GitHub, VSCode
+- Interests: AI, Web Development, Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Currently Learning:
+- Full Stack Development
+- Data Structures & Algorithms
+- Real-world Projects & Freelancing
+
+### 📬 Let's Connect:
+- Gmail: `devxmfk@gmail.com`
+- LinkedIn: [linkedin.com/in/devxmfk](https://linkedin.com/in/devxmfk)
+- GitHub: [github.com/devxmfk](https://github.com/devxmfk)
+
+---
+
+> “Code. Learn. Build. Repeat.” — devxmfk 🚀
+
+
